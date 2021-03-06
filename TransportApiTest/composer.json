@@ -1,0 +1,18 @@
+{
+    "name": "loft/transport-api-test",
+    "description": "Loft - Test",
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+    ,
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "sechance",
+            "email": "vaclav.kolacrik@seznam.cz"
+        }
+    ],
+    "require": {}
+}
